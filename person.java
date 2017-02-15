@@ -1,4 +1,4 @@
- sasmita
+
 package com.test;
 
 class person{
